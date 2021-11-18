@@ -1,7 +1,7 @@
 import pack.ParseMatrix;
 import pack.DisparseMatrix;
 /**
- * BasicProg06_114
+ * BasicProg06_116
  */
 public class BasicProg06_116 {
 
